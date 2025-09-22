@@ -50,10 +50,10 @@ git clone https://github.com/will-genius/mlfcworkshop.git
 cd mlfcworkshop
 ```
 
-### Run Accident_Black_spot_Mapping_in_Kenya
+### Run Accident_Black_spot_Mapping Notebook
 
 ```
-jupyter Accident_Black_spot_Mapping_in_Kenya.ipynb
+Accident_Black_spot_Mapping_in_Kenya.ipynb
 ```
 ---
 
@@ -78,4 +78,4 @@ jupyter Accident_Black_spot_Mapping_in_Kenya.ipynb
 ## Acknowledgments
 
 * **OpenStreetMap** for road data.
-* **world Bank Mocrodata Library** for crash datasets.
+* **world Bank Mocrodata Library** for crash dataset.
