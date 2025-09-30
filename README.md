@@ -5,7 +5,7 @@ This project uses **Kenyas road Traffic crash data between 2012 and 2023** and *
 
 ---
 
-## 📌 Features
+##  Features
 
 **Accident Blackspot Mapping**
 
@@ -28,7 +28,7 @@ This project uses **Kenyas road Traffic crash data between 2012 and 2023** and *
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 * **Python 3**
 * **Libraries:**
@@ -61,6 +61,7 @@ Accident_Black_spot_Mapping_in_Kenya.ipynb
 
 * Crash counts by month & hour
 * Heatmap of crash distribution (Day vs Hour)
+* List of high risk road according to selected county
 * Folium maps showing:
 
   * crash hotspots
@@ -71,7 +72,7 @@ Accident_Black_spot_Mapping_in_Kenya.ipynb
 ## Future Work
 
 * Extend system to **other Kenyan cities**.
-* Add A regex function to enable route identification without proper name spelling
+
 
 ---
 
